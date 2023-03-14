@@ -1,3 +1,4 @@
+
 fun main() {
 //    N1
 //    val x = listOf(1,1,2,2,20,20,80,5,5)
@@ -93,5 +94,24 @@ fun main() {
 //        return fibonacciNumber(stairsCount + 1)
 //    }
 
-    
+
+//N6
+//    class DataStructure {
+//
+//        val array = ArrayList<Int>()
+//        val map = HashMap<Int,Int>()
+//        fun remove(x: Int){
+//            if (map.contains(x)){
+//                val index = map[x]
+//                map.remove(x)
+//                val lastElement = array.size - 1
+//                array[index!!] = array[lastElement]
+//                array.remove(lastElement)
+//                map[array[index]] = index
+//
+//            }
+//        }
+//
+//    }
+
 }
